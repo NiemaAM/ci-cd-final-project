@@ -26,6 +26,16 @@ exit
 
 ## Tasks
 
+## Project Goals
+
+The final project demonstrates the use of CI/CD practices to automate testing, code quality checks, and software delivery.
+
+The project will include:
+
+- Automated testing
+- Continuous integration
+- Continuous delivery
+- Code quality checks
 
 ## License
 
